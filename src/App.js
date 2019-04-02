@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Automating the react build
+            Automating the react build once again.
 
           </a>
         </header>
