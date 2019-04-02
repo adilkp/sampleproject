@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React alongwith goCD integration... Its really interesting. 
+            Automating the react build
 
           </a>
         </header>
